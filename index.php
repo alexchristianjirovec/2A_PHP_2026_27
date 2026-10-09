@@ -7,5 +7,9 @@
 </head>
 <body>
     <p> Sano <p>
+    <?php
+    echo "jurky krivos";
+    print("goat");
+?>
 </body>
 </html>
